@@ -37,4 +37,4 @@ UCSD Biomedical Library Building, Classroom 4, La Jolla, CA 92037.
 
 ## Websites
 * [Workshop Website](https://psteinb.github.io/hpc-in-a-day/)
-* [Registration Page](http://ucsd.libcal.com/event/3324412)
+* [Registration Page](https://ucsd.libcal.com/event/3324412)

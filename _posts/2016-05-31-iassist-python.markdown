@@ -26,13 +26,13 @@ Tim Dennis, UCSD (@jt14den)
 
 ## Schedule
 
-1. 9am - noon - [Building programs with Python](http://swcarpentry.github.io/python-novice-inflammation/)
+1. 9am - noon - [Building programs with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 2. noon-1:30p - Lunch
-3. 1:30-3:30p - [Pandas](http://bids.github.io/2015-06-04-berkeley/intermediate-python/02-modularization-documentation.html), [APIs & JSON](https://github.com/rochelleterman/scrape-interwebz/blob/master/1_APIs/3_api_workbook.ipynb) (Check out the full [scrape interwebz github repo](https://github.com/rochelleterman/scrape-interwebz) from Rochelle Terman)
+3. 1:30-3:30p - [Pandas](https://bids.github.io/2015-06-04-berkeley/intermediate-python/02-modularization-documentation.html), [APIs & JSON](https://github.com/rochelleterman/scrape-interwebz/blob/master/1_APIs/3_api_workbook.ipynb) (Check out the full [scrape interwebz github repo](https://github.com/rochelleterman/scrape-interwebz) from Rochelle Terman)
 
 ### Other materials
 
-* **Etherpad:** <http://pad.software-carpentry.org/iassist-python>
+* **Etherpad:** <https://pad.software-carpentry.org/iassist-python>
 * Notebooks
   * [Numpy](https://github.com/ucsdlib/python-novice-inflammation/blob/gh-pages/1-intro-to-numpy.ipynb)
   * [Loops](https://github.com/ucsdlib/python-novice-inflammation/blob/gh-pages/loops.ipynb)
@@ -44,20 +44,12 @@ Tim Dennis, UCSD (@jt14den)
 
 Your library might subscribe to numerous programming e-books.
 
-* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) - Excellent book written by the guy who created Pandas
-* [Web Scraping with Python](http://shop.oreilly.com/product/0636920034391.do) - If you need get data from websites or an API
+* [Python for Data Analysis](https://shop.oreilly.com/product/0636920023784.do) - Excellent book written by the guy who created Pandas
+* [Web Scraping with Python](https://shop.oreilly.com/product/0636920034391.do) - If you need get data from websites or an API
 * [Python documentation](https://docs.python.org/3/)
 * [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/) - If you want to get more out of the Jupyter notebooks.
 * [A gallery of Jupyter (Ipython) Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-* [Exercism.io](http://exercism.io/) - Download and solve practice problems in nearly 30 different languages including Python
-
-## Set up
-
-Sign-up for an account with SageMathCloud using the email you use to register for the workshop with <https://cloud.sagemath.com/>.
-
-## Requirements
-
-Participants are required to abide by a [Code of Conduct](http://software-carpentry.org/conduct.html). We are using the Software Carpentry Code for this workshop.
+* [Exercism.io](https://exercism.io/) - Download and solve practice problems in nearly 30 different languages including Python
 
 ## Goals
 

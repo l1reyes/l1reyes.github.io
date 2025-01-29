@@ -19,7 +19,7 @@ environment in which the code was used and include operating system dependencies
 Project Jupyter is an effort to provide a solution to these challenges by creating an opensource, computational environment where text and code can be intermingled.
 
 The Jupyter Notebook is a web application that allows you to create and shared documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling,
-machine learning and much more. (Source: [http://jupyter.org])
+machine learning and much more. (Source: [https://jupyter.org])
 
 Numerous examples of Jupyter Notebooks now exist across the disciplines and in both research
 and teaching. There are even examples of their usage in journalism. We contend that libraries can and should play a role in promoting open science tools like Jupyter.
@@ -35,7 +35,7 @@ June 6, 2016
 All librarians, programmers, and  openscience advocates. The material covered is most applicable to academic and science librarians, but could apply to public librarians with an interest in promoting programming and/or ‘citizen science’. Some programming experience will be helpful, but the workshop will also benefit those with a strong interest in learning Python.
 
 ## Location
-[ELAG 2016](http://elag2016.org/), Copenhagen
+[ELAG 2016](https://elag2016.org/), Copenhagen
 
 ## Resources
 Thanks to SageMathCloud for the Jupyter infrastructure:  [![SageMathCloud](https://cloud.sagemath.com/smc-logo.png)](https://cloud.sagemath.com/)

@@ -45,16 +45,16 @@ download.file('https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/
 Unzip those into your 'data' folder inside your workshop project folder.
 
 ## Resources
-* [Collaborative Notes: Etherpad](http://pad.software-carpentry.org/intro-r-ucsd)
-* [Lessons for Class](http://swcarpentry.github.io/r-novice-gapminder/)
-* [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+* [Collaborative Notes: Etherpad](https://pad.software-carpentry.org/intro-r-ucsd)
+* [Lessons for Class](https://swcarpentry.github.io/r-novice-gapminder/)
+* [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
    * Introduction to R and RStudio through Control Flow  
-   * [Dataframe manipulation with dplyr](http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/)
-   * [Dataframe manipulation with tidyr](http://swcarpentry.github.io/r-novice-gapminder/14-tidyr/)
+   * [Dataframe manipulation with dplyr](https://swcarpentry.github.io/r-novice-gapminder/13-dplyr/)
+   * [Dataframe manipulation with tidyr](https://swcarpentry.github.io/r-novice-gapminder/14-tidyr/)
 * [RStudio Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 * [Introduction to R (datacamp free course)](https://campus.datacamp.com/courses/free-introduction-to-r)
 * [Data wrangling cheat sheet from RStudio](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 * [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html)
 * [R E-Books](https://goo.gl/zBiQ7U)
-* [Data/GIS Lab](http://ucsd.libguides.com/data-gis-lab)
+* [Data/GIS Lab](https://ucsd.libguides.com/data-gis-lab)
 * Contact me <timdennis@ucsd.edu>, or set up an appointment <https://calendly.com/timdennis>

@@ -25,5 +25,5 @@ All graduate students and researchers.
 
 ## Resources:
 
-* [Workshop Website](http://ucsdlib.github.io/intro-to-r/)
-* [Software Carpentries Materials](http://software-carpentry.org/lessons/)
+* [Workshop Website](https://ucsdlib.github.io/intro-to-r/)
+* [Software Carpentries Materials](https://software-carpentry.org/lessons/)

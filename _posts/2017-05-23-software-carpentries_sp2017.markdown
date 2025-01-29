@@ -39,4 +39,4 @@ UCSD Biomedical Library Building, Classroom 4, La Jolla, CA 92037.
 
 ## Websites
 * [Workshop Website](https://ucsdlib.github.io/2017-05-23-UCSDHPC/)
-* [Collaborative Notes: Etherpad](http://pad.software-carpentry.org/ucsd-2017)
+* [Collaborative Notes: Etherpad](https://pad.software-carpentry.org/ucsd-2017)

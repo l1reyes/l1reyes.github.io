@@ -38,5 +38,5 @@ September 19 - 20, 2016 (9:00 - 5:00 PM)
 
 ## Resources
 
-* [Workshop Website](http://ucsdlib.github.io/2016-09-19-UCSD-SIO/)
-* [Collaborative Notes: Etherpad](http://pad.software-carpentry.org/sio-2016)
+* [Workshop Website](https://ucsdlib.github.io/2016-09-19-UCSD-SIO/)
+* [Collaborative Notes: Etherpad](https://pad.software-carpentry.org/sio-2016)

@@ -24,4 +24,4 @@ Geisel Library Seuss Room, 2 West http://libraries.ucsd.edu/_files/pdf/floor-pla
 This workshop is open to all.
 
 ## Resources: 
-[Data Science Student Society (DS3)](http://ds3.io)
+[Data Science Student Society (DS3)](https://ds3.io)

@@ -25,7 +25,7 @@ This workshop will introduce you to text analysis techniques in R, an open sourc
 November 16, 2016 (9:00 AM - 12:00 PM)
 
 ## Location
-[Biomedical Library Classroom 4](http://maps.google.com/maps?q=32.875270,%20-117.236917)
+[Biomedical Library Classroom 4](https://maps.google.com/maps?q=32.875270,%20-117.236917)
 
 **Things not covered**
 
@@ -78,12 +78,12 @@ RStudio is an environment for developing using R. It can be downloaded [here](ht
 <https://drive.google.com/open?id=0ByRar-ghNtRlNGpENWJmNGNlS2s>
 
 ## Resources
-* [Collaborative Notes: Etherpad](http://pad.software-carpentry.org/r-txt-analysis)
+* [Collaborative Notes: Etherpad](hthttpstp://pad.software-carpentry.org/r-txt-analysis)
 * [Computational Text Analysis Workshop Materials by Rochelle Terman (@rochelleterman)
 ](https://github.com/rochelleterman/text-analysis-dhbsi)
-* [Text analysis with R for students of literature](http://roger.ucsd.edu/record=b8216276~S9)
-* [Guide to Text Corpora](http://ucsd.libguides.com/data-statistics/textmining)
-* [Crimson Hexagon](http://ucsd.libguides.com/data-statistics/crimsonhexagon)
+* [Text analysis with R for students of literature](https://roger.ucsd.edu/record=b8216276~S9)
+* [Guide to Text Corpora](https://ucsd.libguides.com/data-statistics/textmining)
+* [Crimson Hexagon](https://ucsd.libguides.com/data-statistics/crimsonhexagon)
 
 ## Credits
 

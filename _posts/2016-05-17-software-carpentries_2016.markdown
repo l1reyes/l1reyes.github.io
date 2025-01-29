@@ -33,6 +33,6 @@ May 17 - 18, 2016 (9:00 AM - 5:00 PM)
 
 ## Websites
 
-* [Workshop Website](http://ucsdlib.github.io/2016-05-17-ucsd/)
-* [Collaborative Notes: Etherpad](http://pad.software-carpentry.org/2016-05-17-ucsd)
-* [Registration Page](http://ucsd.libcal.com/event/2561343)
+* [Workshop Website](https://ucsdlib.github.io/2016-05-17-ucsd/)
+* [Collaborative Notes: Etherpad](https://pad.software-carpentry.org/2016-05-17-ucsd)
+* [Registration Page](https://ucsd.libcal.com/event/2561343)

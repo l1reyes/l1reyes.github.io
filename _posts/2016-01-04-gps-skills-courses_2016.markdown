@@ -24,7 +24,7 @@ All graduate students in the School of Global Policy and Strategy.
 
 ## Resources:
 
-* [Workshop Website: R](http://ucsdlib.github.io/win2016-gps-intro-R/)
-* [Workshop Website: Python](http://ucsdlib.github.io/win2016-python-gps/)
-* [Workshop Website: DM](http://ucsdlib.github.io/win2016-gps-dm101/).
-* [Software Carpentries Materials](http://software-carpentry.org/lessons/)
+* [Workshop Website: R](https://ucsdlib.github.io/win2016-gps-intro-R/)
+* [Workshop Website: Python](https://ucsdlib.github.io/win2016-python-gps/)
+* [Workshop Website: DM](https://ucsdlib.github.io/win2016-gps-dm101/).
+* [Software Carpentries Materials](https://software-carpentry.org/lessons/)

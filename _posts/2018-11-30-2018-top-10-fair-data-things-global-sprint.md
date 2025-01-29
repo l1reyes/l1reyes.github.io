@@ -23,5 +23,5 @@ UC San Diego Library, Biomedical Library Building, Classroom 3
 ## Resources
 
 * [Event Website](https://librarycarpentry.org/blog/2018/10/top-ten-fair-announcement/)
-* [Sprint Lesson](http://librarycarpentry.org/Top10FAIR/)
+* [Sprint Lesson](https://librarycarpentry.org/Top10FAIR/)
 * [Library Carpentry](https://librarycarpentry.org/)

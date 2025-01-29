@@ -41,4 +41,4 @@ All graduate students and other researchers (do not need to have any previous kn
 
 ## Resources:
 
-* [Workshop Website](http://scicomp.sdsc.edu/2015-10-27-ucsd/)
+* [Workshop Website](https://scicomp.sdsc.edu/2015-10-27-ucsd/)
