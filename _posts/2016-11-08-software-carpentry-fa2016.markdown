@@ -54,7 +54,7 @@ Unzip those into your 'data' folder inside your workshop project folder.
 * [RStudio Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 * [Introduction to R (datacamp free course)](https://campus.datacamp.com/courses/free-introduction-to-r)
 * [Data wrangling cheat sheet from RStudio](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
-* [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html)
+* [Introduction to dplyr](https://stat545.com/block009_dplyr-intro.html)
 * [R E-Books](https://goo.gl/zBiQ7U)
 * [Data/GIS Lab](https://ucsd.libguides.com/data-gis-lab)
 * Contact me <timdennis@ucsd.edu>, or set up an appointment <https://calendly.com/timdennis>

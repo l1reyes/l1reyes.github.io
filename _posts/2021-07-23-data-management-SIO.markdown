@@ -38,4 +38,4 @@ These workshops are open to all Scripps Institute of Oceanography (SIO) students
 ## Websites
 * [Workshop Website](https://ucsdlib.github.io/sum2021-sio-dm/)
 * [Collaborative Notes](https://hackmd.io/@U2NG/Hk21ZWTnu)
-* Contact [Reid Otsuji](rotsuji@ucsd.edu) or [Stephanie Labou](slabou@ucsd.edu) for more information.
+* Contact [Reid Otsuji](<rotsuji@ucsd.edu>) or [Stephanie Labou](<slabou@ucsd.edu>) for more information.

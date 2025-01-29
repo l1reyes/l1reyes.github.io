@@ -24,13 +24,13 @@ Room 3207.
 
 ## Audience
 
-All graduate students in the School of Global Policy and Strategy. Contact [Reid Otusji](rotsuji@ucsd.edu) for more information.
+All graduate students in the School of Global Policy and Strategy. Contact [Reid Otusji](<rotsuji@ucsd.edu>) for more information.
 
 ## Resources
 
 ### Course Syllabus & Website:
 * [Workshop Website: Intro to R](https://ucsdlib.github.io/win2019-gps-r/)
-* [Workshop Website: Python](ucsdlib.github.io/win2019-gps-python/)
+* [Workshop Website: Python](https://ucsdlib.github.io/win2019-gps-python/)
 * [Workshop Website: Data Management](https://ucsdlib.github.io/win2019-gps-intro-dm/)
 
 ### Collaborative Notes:
