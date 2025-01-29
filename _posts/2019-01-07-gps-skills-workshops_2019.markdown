@@ -24,7 +24,7 @@ Room 3207.
 
 ## Audience
 
-All graduate students in the School of Global Policy and Strategy. Contact [Reid Otusji](<rotsuji@ucsd.edu>) for more information.
+All graduate students in the School of Global Policy and Strategy. Contact <rotsuji@ucsd.edu> for more information.
 
 ## Resources
 
