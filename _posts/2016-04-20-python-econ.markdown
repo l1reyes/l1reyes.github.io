@@ -16,17 +16,17 @@ Python is popular general purpose language that is becoming very popular for doi
 
 ## Topics
 
-1. Using libraries
-1. Working with arrays
-1. Reading and plotting data
-1. Creating and using functions
-1. Loops and conditionals
-1. Defensive programming
-1. Using Python from the command line
-1. [Reference...](https://swcarpentry.github.io//python-novice-inflammation/reference.html)
-2. Parallel computing
-2. Working with Data on the Web
-2. Python and databases
+* Using libraries
+* Working with arrays
+* Reading and plotting data
+* Creating and using functions
+* Loops and conditionals
+* Defensive programming
+* Using Python from the command line
+* [Reference...](https://swcarpentry.github.io//python-novice-inflammation/reference.html)
+* Parallel computing
+* Working with Data on the Web
+* Python and databases
 
 ## Table of Contents
 * TOC
